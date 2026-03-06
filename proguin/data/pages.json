@@ -1,0 +1,23 @@
+{
+  "current_page": "default",
+  "pages": {
+    "default": {
+      "title": "default",
+      "tasks": [
+        {
+          "name": "gym",
+          "completed": true,
+          "id": "f81a2be5-31fd-4796-9991-71dbd7f49bb2",
+          "timer_minutes": null,
+          "reward": null,
+          "scheduled_start": null,
+          "started_at": null,
+          "tags": [],
+          "recurrence": null,
+          "subtasks": [],
+          "note": ""
+        }
+      ]
+    }
+  }
+}
